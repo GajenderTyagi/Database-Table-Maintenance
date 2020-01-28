@@ -1,0 +1,13 @@
+{
+  "sequence": 80,
+  "template name": "Database Table Maintenance",
+  "description": "This is a full database maintenance CRUD application with view, change, add, and delete capabilities",
+  "image": "/cloud/template-icons/database.png",
+  "routes": {},
+  "app start": "maintenance.js",
+  "template dir": "database-table-maintenance",
+  "current git repository": "",
+  "git repositories": [
+    ""
+  ]
+}
